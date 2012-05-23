@@ -2,8 +2,8 @@
 require_once('twitteroauth/twitteroauth.php');
 require_once('config.php');
 include('functions.php');
-	define("OAUTH_TOKEN", "7197842-sZcimnMyM7zTmELaPrzjBeaRuYaRFpqJhANPZoakek");
-	define("OAUTH_SECRET", "qvBcJvlbvb6V7SMhiwd22pfUM5z3voESZd0TO2YESE");
+	define("OAUTH_TOKEN", "????");
+	define("OAUTH_SECRET", "????");
 
 
 			$connection = getConnectionWithAccessToken(OAUTH_TOKEN, OAUTH_SECRET);
