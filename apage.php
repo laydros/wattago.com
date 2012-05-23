@@ -12,8 +12,8 @@ include('functions.php');
 
 define("CONSUMER_KEY", "????");
 define("CONSUMER_SECRET", "????");
-define("OAUTH_TOKEN", "7197842-sZcimnMyM7zTmELaPrzjBeaRuYaRFpqJhANPZoakek");
-define("OAUTH_SECRET", "qvBcJvlbvb6V7SMhiwd22pfUM5z3voESZd0TO2YESE");
+define("OAUTH_TOKEN", "????");
+define("OAUTH_SECRET", "????");
 
 
 /* jason is adding this part */
