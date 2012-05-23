@@ -7,7 +7,7 @@ test thingy
 	require_once('libgmailer.php'); 
 	// $gmailer = new GMailer(); 
 	// $gmail_acc = "laydros";
-	// $gmail_pwd = "daz4er1wad";
+	// $gmail_pwd = "????";
 	$my_timezone = "EST";
 	print("testing a print in the php");
 	// if ($gmailer->created) {
